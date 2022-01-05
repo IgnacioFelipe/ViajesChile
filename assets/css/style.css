@@ -1,3 +1,7 @@
+*{
+    font-family: 'Cabin', sans-serif;;
+}
+
 .carousel-item{
     height: 100vh;
     min-height: 300px;
@@ -8,4 +12,9 @@
 .textoArriba{
     text-align: center;
     color: white;
+}
+
+#footer a{
+    color: white;
+    text-decoration: none;
 }
